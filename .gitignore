@@ -1,0 +1,10 @@
+# generate files or dir
+node_modules/
+coverage/
+dist
+.DS_Store
+src/.DS_Store
+src/assets/.DS_Store
+
+# idea
+.idea/
